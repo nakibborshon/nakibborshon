@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nakibborshon
-- 👀 I’m interested in Web Development and SQA
+- 👀 I’m interested in Web Development, SAP and SQA
 - 🌱 I’m currently learning Node.JS
 - 💞️ I’m looking for a position to fit myself in.
 - 📫 Reach Me on 
